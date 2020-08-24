@@ -1,0 +1,91 @@
+/*
+* {
+    margin:0;
+    padding:0;
+}
+*/
+
+body {
+    background-color: #f4f4f4;
+    color: #555555;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    /* same as above */
+    font: normal 16px Arial, Helvetica, sans-serif;
+
+    line-height: 1.6em;
+    text-align: center;
+    margin:0;
+}
+
+.image  {
+    color:#555555;
+
+    padding: 20px;
+
+    margin:20px 0;
+    Text-align: center;
+
+}
+
+
+
+.image-citations {
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: 450;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+
+    padding: 20px;
+}
+
+.container {
+    width:80%;
+    margin:auto;
+}
+
+.box-1 {
+    background-color:  #f4f4f4;
+    color: #333;
+
+    
+
+    padding: 20px;
+
+    margin:20px 0;
+}
+
+.box-1 h1{
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+   
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+
+    padding: 20px;
+}
+
+
+
+.box-2 {
+    
+   
+}
+
+.box-2 p {
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+
+
+
